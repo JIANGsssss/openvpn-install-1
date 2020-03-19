@@ -6,6 +6,14 @@ This script will let you setup your own secure VPN server in just a few seconds.
 
 You can also check out [wireguard-install](https://github.com/angristan/wireguard-install), a simple installer for a simpler, safer, faster and more modern VPN protocol.
 
+---
+## VPS
+- [Vultr](http://bit.ly/2QqEfuf): Worldwide locations, IPv6 support, starting at $2.50/month with $100 credits
+- [VirMach](http://bit.ly/38Zw3ro): Worldwide locations, unlimited bandwidth, starting at $1/month
+- [Digital Ocean](http://bit.ly/2xaHtuZ): Worldwide locations, IPv6 support, starting at $5/month with $100 credits
+
+---
+
 ## Usage
 
 First, get the script and make it executable :
