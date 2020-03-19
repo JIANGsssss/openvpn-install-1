@@ -142,9 +142,9 @@ Since 2016, the two scripts have diverged and are not alike anymore, especially 
 
 **A:** I recommend these:
 
-- [Vultr](https://goo.gl/Xyd1Sc): Worldwide locations, IPv6 support, starting at $3.50/month
-- [PulseHeberg](https://goo.gl/76yqW5): France, unlimited bandwidth, starting at €3/month
-- [Digital Ocean](https://goo.gl/qXrNLK): Worldwide locations, IPv6 support, starting at $5/month
+- [Vultr](http://bit.ly/2QqEfuf): Worldwide locations, IPv6 support, starting at $2.50/month with $100 credits
+- [VirMach](http://bit.ly/38Zw3ro): Worldwide locations, unlimited bandwidth, starting at $1/month
+- [Digital Ocean](http://bit.ly/2xaHtuZ): Worldwide locations, IPv6 support, starting at $5/month with $100 credits
 
 ---
 
